@@ -1,0 +1,52 @@
+{
+  "day": 4,
+  "student_name": "Akshansh Sharma",
+  "github": "Akinc5",
+  "incidents": [
+    {
+      "id": "A",
+      "failure_type": "Hallucination",
+      "principle": "Reliability",
+      "justification": "The chatbot hallucinated a nonexistent discount policy, providing false information with confidence and making its responses unreliable."
+    },
+    {
+      "id": "B",
+      "failure_type": "Privacy Violation",
+      "principle": "Transparency",
+      "justification": "Employees were never informed that all chat messages including sensitive client contract terms were being logged, preventing informed consent and violating expectations of transparent data handling."
+    },
+    {
+      "id": "C",
+      "failure_type": "Deepfake/Misinformation",
+      "principle": "Privacy",
+      "justification": "An undisclosed AI-generated deepfake deceived the public into believing a fake company announcement was real, violating transparency and causing market disruption."
+    },
+    {
+      "id": "D",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The AI used women's colleges as a proxy for gender, leading to unfair discrimination against applicants and violating the principle of fairness."
+    },
+    {
+      "id": "E",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The resume-screening tool unfairly disadvantaged applicants by using women's colleges as a proxy for gender, violating the principle of fairness through algorithmic bias."
+    },
+    {
+      "id": "F",
+      "failure_type": "Bias/Discrimination",
+      "principle": "Fairness",
+      "justification": "The moderation system disproportionately removed one community's posts, resulting in unfair and biased treatment that violated the principle of fairness."
+    }
+  ],
+  "justifications_written": 6,
+  "stretch_done": true,
+  "stretch_company": "Microsoft – Tay chatbot",
+  "stretch_failure_type": "Lack of Human Oversight",
+  "stretch_principle": "Explainability",
+  "stretch_notes": "Microsoft launched the Tay AI chatbot on X (formerly Twitter) in 2016. Within hours, users manipulated it into generating offensive and hateful content because it learned from interactions with the public. The system lacked sufficient human oversight and safeguards to prevent this behavior. It was also difficult for users to understand why Tay was producing these responses, highlighting poor explainability. Microsoft took Tay offline less than a day after its release.",
+  "tasks_completed": 6,
+  "tasks_total": 6,
+  "submitted_at": "2026-07-16T06:19:43.472Z"
+}
